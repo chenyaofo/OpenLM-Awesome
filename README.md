@@ -5,11 +5,11 @@
 
 An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
 
- - <a href="#Open Large Language Models">Open Large Language Models</a>
+ - [Open Large Language Models](#Open-Large-Language-Models)
  - <a href="#High-performance Open Instruction Tuning Codebase">High-performance Open Instruction Tuning Codebase</a>
 
 
-## <a name="Open Large Language Models">Open Large Language Models</a>
+## Open Large Language Models
 
 | Model | Stars | Organization | Language[^1] | Style | Checkpoints |
 | --- | --- | --- | --- | --- | --- |
