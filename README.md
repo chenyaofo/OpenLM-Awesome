@@ -6,7 +6,7 @@
 An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
 
  - [Open Large Language Models](#Open-Large-Language-Models)
- - <a href="#High-performance Open Instruction Tuning Codebase">High-performance Open Instruction Tuning Codebase</a>
+ - [High-performance Open Instruction Tuning Codebase](#High-performance- Open-Instruction-Tuning-Codebase)
 
 
 ## Open Large Language Models
@@ -29,7 +29,7 @@ An up-to-date awesome list of open-source large language models, instruction & R
 
 [^5]: Direct access to the GLM model with 130B params is currently not possible due to THUDM's policies. However, interested individuals can apply to access the models by filling out a form, which can be found at [here](https://github.com/THUDM/GLM-130B).
 
-## <a name="High-performance Open Instruction Tuning Codebase">High-performance Open Instruction Tuning Codebase</a>
+## High-performance Open Instruction Tuning Codebase
 
  - [**DeepSpeed Chat**](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat): Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales
  - [**ColossalChat**](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) is a project to implement LLM with RLHF, powered by the Colossal-AI project.
