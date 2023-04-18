@@ -19,3 +19,9 @@
 [^4]: There are other GLM models (with different pretraining corpus) that are available at the [THUDM](https://huggingface.co/models?other=glm,thudm) page of Huggingface. GLM models include different size: 10B/2B/515M/410M/335M/110M (English), 10B/335M (Chinese). In above Table, GLM models with Engilish are provided.
 
 [^5]: Direct access to the GLM model with 130B params is currently not possible due to THUDM's policies. However, interested individuals can apply to access the models by filling out a form, which can be found at [here](https://github.com/THUDM/GLM-130B).
+
+## High-performance Open Instruction Tuning Codebase
+
+ - [**DeepSpeed Chat**](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat): Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales
+ - [**ColossalChat**](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) is the project to implement LLM with RLHF, powered by the Colossal-AI project.
+ - [**LMFlow**](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
