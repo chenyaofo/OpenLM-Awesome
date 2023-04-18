@@ -6,7 +6,7 @@
 An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
 
  - [Open Large Language Models](#Open-Large-Language-Models)
- - [High-performance Open Instruction Tuning Codebase](#High-performance- Open-Instruction-Tuning-Codebase)
+ - [High-performance Open Instruction Tuning Codebase](#High-performance-Open-Instruction-Tuning-Codebase)
 
 
 ## Open Large Language Models
