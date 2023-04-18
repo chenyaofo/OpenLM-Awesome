@@ -1,6 +1,15 @@
-# OpenLM-Awesome
+# OpenLM Awesomes
 
-## Open Large Language Models
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/Last%20Update-Apr%2018,%202023-blue.svg)
+
+
+An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
+
+ - <a href="#Open Large Language Models">Open Large Language Models</a>
+ - <a href="#High-performance Open Instruction Tuning Codebase">High-performance Open Instruction Tuning Codebase</a>
+
+
+## <a name="Open Large Language Models">Open Large Language Models</a>
 
 | Model | Stars | Organization | Language[^1] | Style | Checkpoints |
 | --- | --- | --- | --- | --- | --- |
@@ -20,8 +29,8 @@
 
 [^5]: Direct access to the GLM model with 130B params is currently not possible due to THUDM's policies. However, interested individuals can apply to access the models by filling out a form, which can be found at [here](https://github.com/THUDM/GLM-130B).
 
-## High-performance Open Instruction Tuning Codebase
+## <a name="High-performance Open Instruction Tuning Codebase">High-performance Open Instruction Tuning Codebase</a>
 
  - [**DeepSpeed Chat**](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat): Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales
- - [**ColossalChat**](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) is the project to implement LLM with RLHF, powered by the Colossal-AI project.
+ - [**ColossalChat**](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat) is a project to implement LLM with RLHF, powered by the Colossal-AI project.
  - [**LMFlow**](https://github.com/OptimalScale/LMFlow): An extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community.
