@@ -6,6 +6,7 @@
 An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
 
  - [Open Large Language Models](#Open-Large-Language-Models)
+ - [Open Instruction-following Large Language Models](#Open-Instruction-following-Large-Language-Models)
  - [Open Instruction Tuning and RLHF Datasets](#Open-Instruction-Tuning-and-RLHF-Datasets)
  - [High-performance Open Instruction Tuning Codebase](#High-performance-Open-Instruction-Tuning-Codebase)
 
@@ -29,6 +30,14 @@ An up-to-date awesome list of open-source large language models, instruction & R
 [^4]: There are other GLM models (with different pretraining corpus) that are available at the [THUDM](https://huggingface.co/models?other=glm,thudm) page of Huggingface. GLM models include different size: 10B/2B/515M/410M/335M/110M (English), 10B/335M (Chinese). In above Table, GLM models with Engilish are provided.
 
 [^5]: Direct access to the GLM model with 130B params is currently not possible due to THUDM's policies. However, interested individuals can apply to access the models by filling out a form, which can be found at [here](https://github.com/THUDM/GLM-130B).
+
+## Open Instruction-following Large Language Models
+
+| Model | Stars | Organization | Based Model | Checkpoints |
+| --- | --- | --- | --- | --- |
+| [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Stanford | LLaMa | [7B](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff) |
+| [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) | ![](https://img.shields.io/github/stars/Facico/Chinese-Vicuna.svg) | Facico | LLaMa | [7B](https://huggingface.co/Facico/Chinese-Vicuna-lora-7b-3epoch-belle-and-guanaco) |
+
 
 ## Open Instruction Tuning and RLHF Datasets
 
