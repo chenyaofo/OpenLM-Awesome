@@ -36,6 +36,7 @@ An up-to-date awesome list of open-source large language models, instruction & R
 | Model | Stars | Organization | Based Model | Checkpoints |
 | --- | --- | --- | --- | --- |
 | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | ![](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca.svg) | Stanford | LLaMa | [7B](https://huggingface.co/tatsu-lab/alpaca-7b-wdiff) |
+| [Vicuna](https://vicuna.lmsys.org/) | ![](https://img.shields.io/github/stars/lm-sys/FastChat.svg) | lm-sys | LLaMa | [7B](https://huggingface.co/lmsys) & [13B](https://huggingface.co/lmsys) |
 | [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) | ![](https://img.shields.io/github/stars/Facico/Chinese-Vicuna.svg) | Facico | LLaMa | [7B](https://huggingface.co/Facico/Chinese-Vicuna-lora-7b-3epoch-belle-and-guanaco) |
 
 
