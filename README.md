@@ -1,6 +1,6 @@
 # OpenLM Awesomes
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/Last%20Update-Apr%2018,%202023-blue.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/Last%20Update-Apr%2024,%202023-blue.svg)
 
 
 An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
