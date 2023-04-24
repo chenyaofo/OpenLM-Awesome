@@ -6,6 +6,7 @@
 An up-to-date awesome list of open-source large language models, instruction & RLHF datasets and high-performance codebases.
 
  - [Open Large Language Models](#Open-Large-Language-Models)
+ - [Open Instruction Tuning and RLHF Datasets](#Open-Instruction-Tuning-and-RLHF-Datasets)
  - [High-performance Open Instruction Tuning Codebase](#High-performance-Open-Instruction-Tuning-Codebase)
 
 
@@ -28,6 +29,17 @@ An up-to-date awesome list of open-source large language models, instruction & R
 [^4]: There are other GLM models (with different pretraining corpus) that are available at the [THUDM](https://huggingface.co/models?other=glm,thudm) page of Huggingface. GLM models include different size: 10B/2B/515M/410M/335M/110M (English), 10B/335M (Chinese). In above Table, GLM models with Engilish are provided.
 
 [^5]: Direct access to the GLM model with 130B params is currently not possible due to THUDM's policies. However, interested individuals can apply to access the models by filling out a form, which can be found at [here](https://github.com/THUDM/GLM-130B).
+
+## Open Instruction Tuning and RLHF Datasets
+
+| Dataset | Language | #Samples |Annotation Type | Online Link |
+| -- | --- | --- | --- | --- |
+| alpaca_chinese_dataset | Chinese | 52K | GPT-generated & Human-annotated | [hikariming/alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) |
+| BELLE/data | Chinese | 1.5M | GPT-generated | [BELLE/data/1.5M](https://github.com/LianjiaTech/BELLE/tree/main/data/1.5M) |
+| pCLUE | Chinese | 1.2M | Formated from Existing Datasets | [CLUEbenchmark/pCLUE](https://github.com/CLUEbenchmark/pCLUE) |
+| Med-ChatGLM/data | Chinese | 7K | GPT-generated | [SCIR-HI/Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM) |
+| COIG | Chinese | 181K | Follow this [paper](https://arxiv.org/abs/2304.07987) | [BAAI/COIG](https://huggingface.co/datasets/BAAI/COIG) |
+
 
 ## High-performance Open Instruction Tuning Codebase
 
